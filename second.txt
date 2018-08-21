@@ -9,3 +9,9 @@ cad
 dv
 dsv
 sdv
+scasc
+asc
+svadv
+dv
+adv
+dva
