@@ -1,2 +1,3 @@
-Testing PR
+Testing
 Testing without a branch specifier
+limiting job to pull requests only
